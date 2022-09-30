@@ -49,6 +49,14 @@ h1 {
   font-family: Verdana;
 }
 
+.title_4 {
+  text-align: center;
+  color: #5F74C7;
+  font-family: Verdana;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
 p.text {
   color: rgb(40,40,40);
   font-size: 1.3rem;
@@ -68,6 +76,17 @@ p.smalltext {
   margin: 20px;
   display: block;
 }
+
+p.smalltext2 {
+  color: rgb(40,40,0);
+  font-size: 0.9rem;
+  font-family: Verdana;
+  padding-left: 40px;
+  padding-top: 0;
+  margin-left: 20px;
+  display: block;
+}
+
 
 p.desc {
   font-family: sans-serif;
